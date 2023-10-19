@@ -1,5 +1,5 @@
 # NLP Streamline Tool
-Streamline basic text & NLP processing
+A Python package that streamlines basic text & NLP processing
 
 ## How to Use
 1. After installing the package, import the functions you need:
