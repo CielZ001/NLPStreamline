@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
     name="nlpstreamline",
     version="0.0.10",
-    description="Streamline basic text processing & NLP",
+    description="Streamline basic text & NLP processing",
     package_dir={"": "nlpstreamline"},
     packages=find_packages(where="nlpstreamline"),
     long_description=long_description,
