@@ -1,7 +1,5 @@
 # NLP Streamline Tool
-A Python package that streamlines basic text & NLP processing
-
-Pypi: https://pypi.org/project/nlpstreamline/
+A Python package that streamlines basic text & NLP processing: https://pypi.org/project/nlpstreamline/
 
 ## How to Use
 1. After installing the package, import the functions you need:
